@@ -12,7 +12,6 @@ from subprocess import run
 # Define a dictionary of all the flags and their colors
 # Each color is the color for an individual row in the flag
 flags = {
-    'straight': [0, 255, 0, 255, 0],
     'gay': [196, 208, 226, 28, 20, 90],
     'bisexual': [198, 198, 97, 25, 25],
     'lesbian': [202, 209, 255, 255, 168, 161],
